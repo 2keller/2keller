@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/84100527?v=4" width="150" style="border-radius: 50%;">
+  <img src="https://za.pinterest.com/pin/22447698137177479/" width="150" style="border-radius: 50%;">
   <h1>👋 Hi, I'm Kelvin Mashayamombe</h1>
   <p>Building robust and scalable backend systems with Python and Django. I'm currently focused on mastering system automation and authentication workflows as part of my training at ALX Africa.</p>
 </div>
